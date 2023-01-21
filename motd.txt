@@ -1,1 +1,3 @@
-TEST
+The Apotheosis Update is now out!
+
+Thanks for waiting for this one, Its been rough trying to figure things out with the arms of the playermodel and such, but it is finally all good. Check out the updatelog to see whats new!!!
