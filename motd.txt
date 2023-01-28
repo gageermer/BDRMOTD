@@ -1,3 +1,14 @@
-hey guys,
+hey everyone!
 
-discord.gg/badtag doesn't work anymore so use this new link: https://discord.gg/pwBsNPAzw7
+small update today, nothing too big but still carries a few epic stuffs
+
+- occlusion culling (performance stuff)
+- new vent texture
+- webcam monitor is bigger now
+- lowered speaker music volume
+- one new artwork in stump
+- new splash loading icon
+- fixed cosmetics being orange
+- general bug fixes for the game
+- dark areas now have lights
+- new discord link
