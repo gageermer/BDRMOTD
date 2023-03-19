@@ -1,3 +1,5 @@
-yo
+Hey everyone, new update is out
 
-new update coming today, lots of fixes, some additions, fairly sized.
+sorry for delaying this one a lot, i had tons of shit to do and had to do major fixed for everything to work correctly.
+
+this update hopefully fixes a bunch of issues with the other update (besides the gun and the servers capping easily)
