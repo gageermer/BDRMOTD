@@ -1,12 +1,6 @@
-bad tag update 12.0 is here!
+sorry for the long wait for 13.0 but its here now
 
-sorry this one took a bit, lots of have fixed and changed.
+the hit sounds have an entierly new array of sounds so everything sounds nice :)
+also some small changes aswell
 
-the highlights of 12.0 are:
-- maybe tag is fixed now
-- new teaser in shop tunnel
-- made it easier to get to the wardrobe and PC
-- hitsound system overhaul
-- more :)
-
-enjoy!
+ok thx bye
